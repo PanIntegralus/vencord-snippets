@@ -1,0 +1,2 @@
+# vencord-snippets
+Vencord snippets
